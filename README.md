@@ -6,13 +6,13 @@ Official Raspberry Pi Screen v2 Mount for the deskpi Rackmate 10inch server rack
 There are serveral files in this repo which depends on your print bed
 
 For Large print beds use the following file which is the front plate in one file
-- Offical_RaspberryPi_ScreenV2_3U_10inch_RackMount_FrontPlate.stl
+- frontplate_onepiece.stl
 
 For Smaller print beds use the following files which need to be glued together
-- Offical_RaspberryPi_ScreenV2_3U_10inch_RackMount_FrontPlate_LeftHalf.stl
-- Offical_RaspberryPi_ScreenV2_3U_10inch_RackMount_FrontPlate_RightHalf.stl
+- frontplate_lefthalf.stl
+- frontplate_righthalf.stl
 
 Finally to complete the build you need to print the rear mount twice and glue to the back of the front plate. This file works on both the whole plate and the two halfs.
-- Offical_RaspberryPi_ScreenV2_3U_10inch_RackMount_RearMount.stl
+- rearmount.stl
 
 The Screen is then put through the front plate and mounted to the glued on rear mount from behind * Note I will make a photo or proper guide for this later
